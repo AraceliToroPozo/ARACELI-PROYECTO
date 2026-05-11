@@ -1,0 +1,1190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260511163707IUW2M2</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260511163707OHXQXZ</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Documento sin título LETRAS CONECTADAS</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>LETRAS CONECTADAS</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Araceli Mª Toro Pozo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Recurso Educativo Abierto diseñado para el primer ciclo de Educación Primaria. A través de un diccionario pictográfico y la creación de cómics con Pixton, el alumnado trabaja la lectoescritura, las onomatopeyas y la expresión escrita. El proyecto integra el uso de las TIC como andamiaje para reducir la carga cognitiva y fomentar la motivación mediante la narrativa visual.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778507075115</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mp18zyt4-9two0n6lc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp18zyt4-9two0n6lc</odePageId>
+      <odeBlockId>block-1778433077165-ua2079x3m</odeBlockId>
+      <blockName>Presentación del proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp18zyt4-9two0n6lc</odePageId>
+          <odeBlockId>block-1778433077165-ua2079x3m</odeBlockId>
+          <odeIdeviceId>idevice-1778433077160-kccnhwr7f</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Título:</strong> "Letras Conectadas: Mi primer viaje digital al mundo de los sonidos".<br /><strong>Temática / Centro de interés</strong>: Los animales del entorno y sus nombres.<br /><strong>Nivel</strong>: 1.º de Educación Primaria.<br /><strong>Temporalización</strong>: 15 días.<br /><strong>Materias implicadas</strong>: Lengua Castellana y Literatura (principal), Educación Artística y Conocimiento del Medio.<br /><strong>Idioma</strong>: Castellano.</p>
+<p><span style="color: #e03e2d;">Descripción General</span><br />Se pretende que el alumnado adquiera la capacidad de identificar, segmentar y escribir palabras sencillas relacionadas con animales, utilizando tanto medios analógicos como digitales. El proyecto culmina con la creación de un "Diccionario de Animales Interactivo". El alumnado utilizará tablets para realizar juegos de lectoescritura, pero con un enfoque renovado: se utilizarán herramientas offline y se integrará un "Andamiaje de Competencia Digital" para que los niños y niñas aprendan a resolver pequeños conflictos técnicos por sí mismos.</p>
+<p><span style="color: #e03e2d;">Justificación y reflexión</span><br />La elección de estos elementos se justifica así:<br />Gestión de la Incertidumbre En mi reflexión anterior, el fallo del Wi-Fi generó estrés y pérdida de atención. Por ello, en esta SdA se han seleccionado recursos interactivos que funcionan sin conexión a internet (offline). He diseñado un "Plan B" analógico (letras de lija y tarjetas físicas) para garantizar la continuidad pedagógica ante cualquier imprevisto técnico, eliminando la incertidumbre del servidor.<br />Ponderación de consecuencias éticas y pedagógicas: Tras observar que algunos alumnos se frustraban por la falta de destreza motriz con el gesto de "arrastrar", he modificado las actividades para que se basen en "pulsar" y "escuchar". Esto reduce la carga cognitiva técnica y permite que el alumno se centre exclusivamente en el reto lingüístico, garantizando la equidad para aquellos con menos experiencia digital previa.<br />Estrategias de autonomía: He incluido en la descripción el uso de un panel de pictogramas de resolución de problemas. Esta es una respuesta directa a la "falta de autonomía" detectada en la tarea 1.1. El alumnado no será un mero consumidor, sino que aprenderá a identificar qué información necesita para que su herramienta (la tablet) funcione correctamente. </p>
+<p>Estrategias de autonomía: He incluido en la descripción el uso de un panel de pictogramas de resolución de problemas. Esta es una respuesta directa a la "falta de autonomía" detectada en la tarea 1.1. El alumnado aprenderá a identificar qué información necesita para que su herramienta (la tablet) funcione correctamente.<br />Adaptación al contexto: La secuencia está adaptada al nivel madurativo real de mi aula de 1.º de Primaria.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778433077160-kccnhwr7f","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Título:</strong> \"Letras Conectadas: Mi primer viaje digital al mundo de los sonidos\".<br /><strong>Temática / Centro de interés</strong>: Los animales del entorno y sus nombres.<br /><strong>Nivel</strong>: 1.º de Educación Primaria.<br /><strong>Temporalización</strong>: 15 días.<br /><strong>Materias implicadas</strong>: Lengua Castellana y Literatura (principal), Educación Artística y Conocimiento del Medio.<br /><strong>Idioma</strong>: Castellano.</p>\n<p><span style=\"color: #e03e2d;\">Descripción General</span><br />Se pretende que el alumnado adquiera la capacidad de identificar, segmentar y escribir palabras sencillas relacionadas con animales, utilizando tanto medios analógicos como digitales. El proyecto culmina con la creación de un \"Diccionario de Animales Interactivo\". El alumnado utilizará tablets para realizar juegos de lectoescritura, pero con un enfoque renovado: se utilizarán herramientas offline y se integrará un \"Andamiaje de Competencia Digital\" para que los niños y niñas aprendan a resolver pequeños conflictos técnicos por sí mismos.</p>\n<p><span style=\"color: #e03e2d;\">Justificación y reflexión</span><br />La elección de estos elementos se justifica así:<br />Gestión de la Incertidumbre En mi reflexión anterior, el fallo del Wi-Fi generó estrés y pérdida de atención. Por ello, en esta SdA se han seleccionado recursos interactivos que funcionan sin conexión a internet (offline). He diseñado un \"Plan B\" analógico (letras de lija y tarjetas físicas) para garantizar la continuidad pedagógica ante cualquier imprevisto técnico, eliminando la incertidumbre del servidor.<br />Ponderación de consecuencias éticas y pedagógicas: Tras observar que algunos alumnos se frustraban por la falta de destreza motriz con el gesto de \"arrastrar\", he modificado las actividades para que se basen en \"pulsar\" y \"escuchar\". Esto reduce la carga cognitiva técnica y permite que el alumno se centre exclusivamente en el reto lingüístico, garantizando la equidad para aquellos con menos experiencia digital previa.<br />Estrategias de autonomía: He incluido en la descripción el uso de un panel de pictogramas de resolución de problemas. Esta es una respuesta directa a la \"falta de autonomía\" detectada en la tarea 1.1. El alumnado no será un mero consumidor, sino que aprenderá a identificar qué información necesita para que su herramienta (la tablet) funcione correctamente. </p>\n<p>Estrategias de autonomía: He incluido en la descripción el uso de un panel de pictogramas de resolución de problemas. Esta es una respuesta directa a la \"falta de autonomía\" detectada en la tarea 1.1. El alumnado aprenderá a identificar qué información necesita para que su herramienta (la tablet) funcione correctamente.<br />Adaptación al contexto: La secuencia está adaptada al nivel madurativo real de mi aula de 1.º de Primaria.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp18zyt7-03mi0nuwd</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Introducción</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp18zyt7-03mi0nuwd</odePageId>
+      <odeBlockId>block-1778261498715-qgimqcvrc</odeBlockId>
+      <blockName>¡Comienza la aventura de los sonidos!</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp18zyt7-03mi0nuwd</odePageId>
+          <odeBlockId>block-1778261498715-qgimqcvrc</odeBlockId>
+          <odeIdeviceId>idevice-1778261498707-5deihk9j9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>60:00</dd></div><div class="inline"><dt><span title="Pequeños grupos">Pequeños grupos</span></dt><dd>20</dd></div></dl><h2><strong><span style="color: #e03e2d; font-family: 'comic sans ms', sans-serif;">¡Hola, exploradores y exploradoras!</span></strong></h2>
+<p><span style="font-family: 'comic sans ms', sans-serif;">Bienvenidos a<span style="color: #e03e2d;"> "Letras Conectadas"</span>. En este viaje digital vamos a convertirnos en expertos de los animales y de los sonidos que forman sus nombres. ¿Sabíais que cada animal tiene un nombre secreto que podemos escribir y hacer sonar en nuestras tablets?</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">Durante las próximas dos semanas, vamos a investigar qué animales viven cerca de nosotros, cómo se escriben sus nombres y cómo podemos usar la tecnología para crear nuestro propio <span style="color: #e03e2d;">Diccionario de Animales Interactivo.</span></span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">¡Pero cuidado! En esta aventura también aprenderemos a ser autónomos. Si la tablet no funciona o el Wi-Fi se escapa como un gato, ¡no pasa nada! Tenemos nuestro panel de pictogramas para solucionar problemas y nuestras letras de lija mágicas para seguir aprendiendo.</span></p>
+<p><span style="color: #e03e2d; background-color: #f1c40f;"><strong>¡Prepara tu mochila digital, que el viaje empieza ya!</strong></span></p>
+<p><span style="color: #e03e2d; background-color: #f1c40f;"><strong><img src="{{context_path}}/content/resources/garten-gg-animals-2222007_1920.jpg" title="Bienvenidos a la selva de las letras" width="689" height="229" alt=""Dibujo colorido de animales"" /></strong></span></p>
+<p><span style="background-color: #ecf0f1;"><em><span style="color: #000000; font-size: 8pt; background-color: #ecf0f1;">Imagen de garten-gg en Pixabay. Licencia de contenido de Pixabay (Uso gratuito).</span></em></span></p>
+<p><span style="background-color: #ecf0f1;"><em><span style="color: #000000; font-size: 8pt; background-color: #ecf0f1;"></span></em></span><br /></p>
+<hr />
+<p><strong>JUSTIFICACIÓN PEDAGÓGICA Y FICHA TÉCNICA (PARA EL DOCENTE)</strong></p>
+<p>Título: Letras Conectadas: Mi primer viaje digital al mundo de los sonidos.<br />Nivel: 1.º de Educación Primaria.<br />Duración: 15 días (esta sesión inicial: 1 hora).<br />Áreas: Lengua Castellana y Literatura, Conocimiento Del Medio Natural, Social y Cultural, Educación Artística.<br />Reflexión y diseño del proyecto: Este proyecto ha sido diseñado bajo los principios de Gestión de la Incertidumbre, tras detectar en mi práctica (Tarea 1.1) que los fallos técnicos generaban estrés. Por ello:</p>
+<p>Enfoque Offline: He seleccionado recursos que no dependen de la conexión a internet.<br />Equidad (DUA): He adaptado las actividades para que se basen en "pulsar y escuchar", reduciendo la frustración por falta de destreza motriz.<br />Autonomía: Se integra un panel de pictogramas para que el alumnado resuelva pequeños problemas técnicos por sí mismo, fomentando su competencia digital desde el inicio.</p>
+<p>💡 ¿Por qué este proyecto es especial? (Justificación)<br />En este proyecto no solo usamos tablets, sino que aprendemos a usarlas con cabeza:</p>
+<p>Sin miedo a los fallos: Hemos preparado actividades offline y materiales físicos para que nada detenga nuestro aprendizaje.<br />Tecnología para todos: Las actividades están diseñadas para que sea fácil interactuar (pulsar y escuchar), respetando el ritmo de cada niño y niña.<br />Somos resolutivos: Gracias a nuestro panel de pictogramas, aprenderemos a solucionar pequeños problemas técnicos nosotros solos.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778261498707-5deihk9j9","textInfoDurationInput":"60:00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"20","textInfoParticipantsTextInput":"Pequeños grupos","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>60:00</dd></div><div class=\"inline\"><dt><span title=\"Pequeños grupos\">Pequeños grupos</span></dt><dd>20</dd></div></dl><h2><strong><span style=\"color: #e03e2d; font-family: 'comic sans ms', sans-serif;\">¡Hola, exploradores y exploradoras!</span></strong></h2>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">Bienvenidos a<span style=\"color: #e03e2d;\"> \"Letras Conectadas\"</span>. En este viaje digital vamos a convertirnos en expertos de los animales y de los sonidos que forman sus nombres. ¿Sabíais que cada animal tiene un nombre secreto que podemos escribir y hacer sonar en nuestras tablets?</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">Durante las próximas dos semanas, vamos a investigar qué animales viven cerca de nosotros, cómo se escriben sus nombres y cómo podemos usar la tecnología para crear nuestro propio <span style=\"color: #e03e2d;\">Diccionario de Animales Interactivo.</span></span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">¡Pero cuidado! En esta aventura también aprenderemos a ser autónomos. Si la tablet no funciona o el Wi-Fi se escapa como un gato, ¡no pasa nada! Tenemos nuestro panel de pictogramas para solucionar problemas y nuestras letras de lija mágicas para seguir aprendiendo.</span></p>\n<p><span style=\"color: #e03e2d; background-color: #f1c40f;\"><strong>¡Prepara tu mochila digital, que el viaje empieza ya!</strong></span></p>\n<p><span style=\"color: #e03e2d; background-color: #f1c40f;\"><strong><img src=\"{{context_path}}/content/resources/garten-gg-animals-2222007_1920.jpg\" title=\"Bienvenidos a la selva de las letras\" width=\"689\" height=\"229\" alt=\"\"Dibujo colorido de animales\"\" /></strong></span></p>\n<p><span style=\"background-color: #ecf0f1;\"><em><span style=\"color: #000000; font-size: 8pt; background-color: #ecf0f1;\">Imagen de garten-gg en Pixabay. Licencia de contenido de Pixabay (Uso gratuito).</span></em></span></p>\n<p><span style=\"background-color: #ecf0f1;\"><em><span style=\"color: #000000; font-size: 8pt; background-color: #ecf0f1;\"></span></em></span><br /></p>\n<hr />\n<p><strong>JUSTIFICACIÓN PEDAGÓGICA Y FICHA TÉCNICA (PARA EL DOCENTE)</strong></p>\n<p>Título: Letras Conectadas: Mi primer viaje digital al mundo de los sonidos.<br />Nivel: 1.º de Educación Primaria.<br />Duración: 15 días (esta sesión inicial: 1 hora).<br />Áreas: Lengua Castellana y Literatura, Conocimiento Del Medio Natural, Social y Cultural, Educación Artística.<br />Reflexión y diseño del proyecto: Este proyecto ha sido diseñado bajo los principios de Gestión de la Incertidumbre, tras detectar en mi práctica (Tarea 1.1) que los fallos técnicos generaban estrés. Por ello:</p>\n<p>Enfoque Offline: He seleccionado recursos que no dependen de la conexión a internet.<br />Equidad (DUA): He adaptado las actividades para que se basen en \"pulsar y escuchar\", reduciendo la frustración por falta de destreza motriz.<br />Autonomía: Se integra un panel de pictogramas para que el alumnado resuelva pequeños problemas técnicos por sí mismo, fomentando su competencia digital desde el inicio.</p>\n<p>💡 ¿Por qué este proyecto es especial? (Justificación)<br />En este proyecto no solo usamos tablets, sino que aprendemos a usarlas con cabeza:</p>\n<p>Sin miedo a los fallos: Hemos preparado actividades offline y materiales físicos para que nada detenga nuestro aprendizaje.<br />Tecnología para todos: Las actividades están diseñadas para que sea fácil interactuar (pulsar y escuchar), respetando el ritmo de cada niño y niña.<br />Somos resolutivos: Gracias a nuestro panel de pictogramas, aprenderemos a solucionar pequeños problemas técnicos nosotros solos.</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp18zyt9-fmume6vil</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp18zyt9-fmume6vil</odePageId>
+      <odeBlockId>block-1778343042044-tthfimcnw</odeBlockId>
+      <blockName>🔒Nuestros Secretos están a Salvo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp18zyt9-fmume6vil</odePageId>
+          <odeBlockId>block-1778343042044-tthfimcnw</odeBlockId>
+          <odeIdeviceId>idevice-1778343042038-a9bp05m8n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h3><span style="color: #e03e2d;"><strong><span style="font-family: 'comic sans ms', sans-serif;">¡Hola, exploradores! </span></strong></span></h3>
+<h3><span style="font-family: 'comic sans ms', sans-serif; font-size: 12pt; color: #236fa1;">En este viaje con las tablets, vamos a aprender a ser <span style="background-color: #f1c40f;">Guardianes de nuestra Privacidad.</span></span></h3>
+<p><strong><span style="font-family: 'comic sans ms', sans-serif; font-size: 12pt; color: #e03e2d;">¿Sabéis qué significa eso? </span></strong></p>
+<p><span style="font-family: 'comic sans ms', sans-serif; font-size: 12pt; color: #236fa1;">Que vuestro nombre, vuestras fotos y vuestros trabajos son como un <span style="background-color: #f1c40f;">tesoro</span>. En este proyecto:</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif; font-size: 12pt; color: #e67e23;">- No daremos nuestro nombre real en internet.</span><br /><span style="font-family: 'comic sans ms', sans-serif; font-size: 12pt; color: #e67e23;">- No pondremos fotos de nuestra cara en las tablets.</span><br /><span style="font-family: 'comic sans ms', sans-serif; font-size: 12pt; color: #e67e23;">- Usaremos herramientas que no necesitan internet.                </span></p>
+<p><strong><span style="font-family: 'comic sans ms', sans-serif; font-size: 12pt; color: #236fa1;">¡Vuestros datos son vuestros y nosotros los cuidamos!</span></strong></p>
+<p><strong><span style="font-family: 'comic sans ms', sans-serif; font-size: 12pt; color: #236fa1;">   </span></strong></p>
+<figure class="exe-figure position-center" style="width: 800px;"><img src="{{context_path}}/content/resources/🛡️ Título Mi Escudo Digital Autora Araceli Mª Toro Pozo.jpg" title="Protección de datos" width="800" height="2000" alt="Protección de datos" />
+<figcaption class="figcaption"><span class="author">Araceli Mª Toro Pozo</span>. <span class="title"><em>Protección de datos</em></span> <span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+<hr />
+<p><strong>INFORMACIÓN PARA LAS FAMILIAS Y EL DOCENTE (RGPD)</strong></p>
+<p>Este proyecto cumple con el Reglamento General de Protección de Datos (RGPD) mediante las siguientes medidas:</p>
+<p><span style="background-color: #f1c40f;">Herramientas Offline:</span> Se prioriza el uso de software que no requiere registro de usuario ni subida de datos a la nube, minimizando la huella digital del alumnado.<br /><span style="background-color: #f1c40f;">Identidad Digital:</span> El alumnado trabajará bajo pseudónimos o avatares en caso de interactuar con herramientas que lo permitan.<br /><span style="background-color: #f1c40f;">Consentimiento:</span> Todas las actividades que impliquen el uso de dispositivos digitales cuentan con la autorización previa de información y uso de imagen firmada por los tutores legales al inicio del curso.<br /><span style="background-color: #f1c40f;">Uso de Imágenes:</span> Las fotos del producto final (Diccionario Interactivo) se realizarán sobre los trabajos, evitando el enfoque de rostros de menores.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778343042038-a9bp05m8n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3><span style=\"color: #e03e2d;\"><strong><span style=\"font-family: 'comic sans ms', sans-serif;\">¡Hola, exploradores! </span></strong></span></h3>\n<h3><span style=\"font-family: 'comic sans ms', sans-serif; font-size: 12pt; color: #236fa1;\">En este viaje con las tablets, vamos a aprender a ser <span style=\"background-color: #f1c40f;\">Guardianes de nuestra Privacidad.</span></span></h3>\n<p><strong><span style=\"font-family: 'comic sans ms', sans-serif; font-size: 12pt; color: #e03e2d;\">¿Sabéis qué significa eso? </span></strong></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif; font-size: 12pt; color: #236fa1;\">Que vuestro nombre, vuestras fotos y vuestros trabajos son como un <span style=\"background-color: #f1c40f;\">tesoro</span>. En este proyecto:</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif; font-size: 12pt; color: #e67e23;\">- No daremos nuestro nombre real en internet.</span><br /><span style=\"font-family: 'comic sans ms', sans-serif; font-size: 12pt; color: #e67e23;\">- No pondremos fotos de nuestra cara en las tablets.</span><br /><span style=\"font-family: 'comic sans ms', sans-serif; font-size: 12pt; color: #e67e23;\">- Usaremos herramientas que no necesitan internet.                </span></p>\n<p><strong><span style=\"font-family: 'comic sans ms', sans-serif; font-size: 12pt; color: #236fa1;\">¡Vuestros datos son vuestros y nosotros los cuidamos!</span></strong></p>\n<p><strong><span style=\"font-family: 'comic sans ms', sans-serif; font-size: 12pt; color: #236fa1;\">   </span></strong></p>\n<figure class=\"exe-figure position-center\" style=\"width: 800px;\"><img src=\"{{context_path}}/content/resources/🛡️ Título Mi Escudo Digital Autora Araceli Mª Toro Pozo.jpg\" title=\"Protección de datos\" width=\"800\" height=\"2000\" alt=\"Protección de datos\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Araceli Mª Toro Pozo</span>. <span class=\"title\"><em>Protección de datos</em></span> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Dominio público</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<hr />\n<p><strong>INFORMACIÓN PARA LAS FAMILIAS Y EL DOCENTE (RGPD)</strong></p>\n<p>Este proyecto cumple con el Reglamento General de Protección de Datos (RGPD) mediante las siguientes medidas:</p>\n<p><span style=\"background-color: #f1c40f;\">Herramientas Offline:</span> Se prioriza el uso de software que no requiere registro de usuario ni subida de datos a la nube, minimizando la huella digital del alumnado.<br /><span style=\"background-color: #f1c40f;\">Identidad Digital:</span> El alumnado trabajará bajo pseudónimos o avatares en caso de interactuar con herramientas que lo permitan.<br /><span style=\"background-color: #f1c40f;\">Consentimiento:</span> Todas las actividades que impliquen el uso de dispositivos digitales cuentan con la autorización previa de información y uso de imagen firmada por los tutores legales al inicio del curso.<br /><span style=\"background-color: #f1c40f;\">Uso de Imágenes:</span> Las fotos del producto final (Diccionario Interactivo) se realizarán sobre los trabajos, evitando el enfoque de rostros de menores.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp18zytb-6xgvlntl1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp18zytb-6xgvlntl1</odePageId>
+      <odeBlockId>block-1778434271682-fo55ddfj8</odeBlockId>
+      <blockName>El diccionario de animales digital</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp18zytb-6xgvlntl1</odePageId>
+          <odeBlockId>block-1778434271682-fo55ddfj8</odeBlockId>
+          <odeIdeviceId>idevice-1778434271679-oyh1gsziy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El alumnado de 1.º de Primaria creará un Diccionario Pictográfico Interactivo. Este producto final no solo incluirá la letra y la imagen del animal, sino que cobrará vida a través de la narrativa visual.</p>
+<p>¿En qué consiste? Cada alumno o pareja de alumnos se encargará de una letra y un animal. El trabajo se divide en dos partes:</p>
+<p>Parte Pictográfica: Identificación de la letra inicial y el animal (usando nuestras letras de lija y dibujos).<br />Parte Narrativa (Pixton): Creación de una tira de 3 viñetas donde su animal es el protagonista. Los niños darán voz a los animales trabajando onomatopeyas (como el "muuu" o el "beee") y frases sencillas (ej: "El pato nada").<br /></p>
+<p>Beneficios de Pixton</p>
+<p>Andamiaje visual: Ayuda a los niños que aún no escriben mucho a expresar historias mediante gestos y fondos.<br />Motivación: Al crear sus propios avatares, se sienten autores de su aprendizaje.<br />Reducción de carga cognitiva: Se centran en pensar qué dice el animal (conciencia fonológica) sin la frustración de no saber dibujar algo complejo.</p>
+<p>Esta actividad atiende a la diversidad (DUA) ya que el uso de Pixton permite múltiples formas de acción y expresión. Aquellos alumnos con dificultades en la motricidad fina para el dibujo manual pueden demostrar su comprensión de la historia mediante la selección de avatares y escenarios digitales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778434271679-oyh1gsziy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El alumnado de 1.º de Primaria creará un Diccionario Pictográfico Interactivo. Este producto final no solo incluirá la letra y la imagen del animal, sino que cobrará vida a través de la narrativa visual.</p>\n<p>¿En qué consiste? Cada alumno o pareja de alumnos se encargará de una letra y un animal. El trabajo se divide en dos partes:</p>\n<p>Parte Pictográfica: Identificación de la letra inicial y el animal (usando nuestras letras de lija y dibujos).<br />Parte Narrativa (Pixton): Creación de una tira de 3 viñetas donde su animal es el protagonista. Los niños darán voz a los animales trabajando onomatopeyas (como el \"muuu\" o el \"beee\") y frases sencillas (ej: \"El pato nada\").<br /></p>\n<p>Beneficios de Pixton</p>\n<p>Andamiaje visual: Ayuda a los niños que aún no escriben mucho a expresar historias mediante gestos y fondos.<br />Motivación: Al crear sus propios avatares, se sienten autores de su aprendizaje.<br />Reducción de carga cognitiva: Se centran en pensar qué dice el animal (conciencia fonológica) sin la frustración de no saber dibujar algo complejo.</p>\n<p>Esta actividad atiende a la diversidad (DUA) ya que el uso de Pixton permite múltiples formas de acción y expresión. Aquellos alumnos con dificultades en la motricidad fina para el dibujo manual pueden demostrar su comprensión de la historia mediante la selección de avatares y escenarios digitales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp18zytc-bvybo0f0b</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Curación de contenidos</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp18zytc-bvybo0f0b</odePageId>
+      <odeBlockId>block-1778356881707-61naqjdts</odeBlockId>
+      <blockName>ANIMALES DEL MUNDO</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp18zytc-bvybo0f0b</odePageId>
+          <odeBlockId>block-1778356881707-61naqjdts</odeBlockId>
+          <odeIdeviceId>idevice-1778356881699-h9isiga02</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/toroaraceli/animales-del-mundo-vk3vhkgqmgs2bzc3" size="4" width="600" height="800" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp18zytc-bvybo0f0b</odePageId>
+      <odeBlockId>block-1778357217414-ag30t3b9p</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp18zytc-bvybo0f0b</odePageId>
+          <odeBlockId>block-1778357217414-ag30t3b9p</odeBlockId>
+          <odeIdeviceId>idevice-1778357217411-y7jsmdome</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>"Haz clic en el siguiente botón para abrir nuestro tablero de juegos de Symbaloo:"</p>
+<p><a href="https://www.symbaloo.com/shared/AAAAAcrWUTQAA41-5ETD2w==" target="_blank" title="" rel="noopener"><span style="color: #e67e23;"><strong title="">MI TABLERO DE JUEGOS (SYMBALOO)</strong></span></a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778357217411-y7jsmdome","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>\"Haz clic en el siguiente botón para abrir nuestro tablero de juegos de Symbaloo:\"</p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAAAcrWUTQAA41-5ETD2w==\" target=\"_blank\" title=\"\" rel=\"noopener\"><span style=\"color: #e67e23;\"><strong title=\"\">MI TABLERO DE JUEGOS (SYMBALOO)</strong></span></a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp18zytf-vphxb3upy</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp18zytf-vphxb3upy</odePageId>
+      <odeBlockId>block-1778434785781-enx4w8nh7</odeBlockId>
+      <blockName>Línea temporal de actividades</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp18zytf-vphxb3upy</odePageId>
+          <odeBlockId>block-1778434785781-enx4w8nh7</odeBlockId>
+          <odeIdeviceId>idevice-1778434785779-oe0bbghp3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://go.bubbl.us/f19105/4ddc?/Circle-Layout" target="_blank" title="" rel="noopener">Línea temporal de actividades.</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778434785779-oe0bbghp3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://go.bubbl.us/f19105/4ddc?/Circle-Layout\" target=\"_blank\" title=\"\" rel=\"noopener\">Línea temporal de actividades.</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp18zytg-5widk1m28</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp18zytg-5widk1m28</odePageId>
+      <odeBlockId>block-1778262251083-hwvc2o9jw</odeBlockId>
+      <blockName>📘 Criterios de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp18zytg-5widk1m28</odePageId>
+          <odeBlockId>block-1778262251083-hwvc2o9jw</odeBlockId>
+          <odeIdeviceId>idevice-1778262251078-7nhg7yfhx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100.058%; height: 366.328px; background-color: #9BFB76; border-color: #2dc26b; border-style: solid;">
+<tbody>
+<tr style="height: 37.7969px;">
+<td style="width: 22.3065%; height: 37.7969px;">TAREA</td>
+<td style="width: 14.2972%; height: 37.7969px;">CRITERIO</td>
+<td style="width: 23.8561%; height: 37.7969px;">AGRUPAMIENTO</td>
+<td style="width: 18.0287%; height: 37.7969px;">TIEMPO</td>
+<td style="width: 21.4887%; height: 37.7969px;">HERRAMIENTA</td>
+</tr>
+<tr style="height: 139.547px;">
+<td style="width: 22.3065%; height: 139.547px;"><span style="font-size: 10pt;">1. Exploradores de Sonidos: Identificar fonemas y onomatopeyas de animales de la granja mediante audios y tarjetas físicas. </span></td>
+<td style="width: 14.2972%; height: 139.547px;"><span style="font-size: 10pt;">1.1. Reconocer y distinguir sonidos de la lengua, onomatopeyas y rimas. </span><br /></td>
+<td style="width: 23.8561%; height: 139.547px;"><span style="font-size: 10pt;">Gran grupo e Individual </span></td>
+<td style="width: 18.0287%; height: 139.547px;"><span style="font-size: 10pt;">50 MINUTOS</span><br /></td>
+<td style="width: 21.4887%; height: 139.547px;"><span style="font-size: 10pt;">PDI y audios</span><br /></td>
+</tr>
+<tr style="height: 37.7969px;">
+<td style="width: 22.3065%; height: 37.7969px;"><span style="font-size: 10pt;">2. Alfabetización Digital: Sesión de modelado sobre el uso de la tablet, encendido, acceso a la App y protocolo de "Pantalla Congelada". </span><br /></td>
+<td style="width: 14.2972%; height: 37.7969px;"><span style="font-size: 10pt;">6.1. Iniciarse en el uso de herramientas digitales para el aprendizaje de forma guiada. </span><br /></td>
+<td style="width: 23.8561%; height: 37.7969px;"><span style="font-size: 10pt;">Gran grupo</span><br /></td>
+<td style="width: 18.0287%; height: 37.7969px;"><span style="font-size: 10pt;">30 minutos</span><br /></td>
+<td style="width: 21.4887%; height: 37.7969px;"><span style="font-size: 10pt;">Tablets</span><br /></td>
+</tr>
+<tr style="height: 37.7969px;">
+<td style="width: 22.3065%; height: 37.7969px;"><span style="font-size: 10pt;">3. Bocetos de Animales: Dibujar y escribir el nombre de un animal elegido en papel, segmentando las sílabas. </span><br /></td>
+<td style="width: 14.2972%; height: 37.7969px;"><span style="font-size: 10pt;">3.1. Redactar palabras y frases sencillas con una intención comunicativa.</span><br /></td>
+<td style="width: 23.8561%; height: 37.7969px;"><span style="font-size: 10pt;">Individual</span><br /></td>
+<td style="width: 18.0287%; height: 37.7969px;"><span style="font-size: 10pt;">45 minutos</span><br /></td>
+<td style="width: 21.4887%; height: 37.7969px;"><span style="font-size: 10pt;">Material fungible</span><br /></td>
+</tr>
+<tr style="height: 37.7969px;">
+<td style="width: 22.3065%; height: 37.7969px;"><span style="font-size: 10pt;">4. Creación en el Cómic: Crear una tira de 3 viñetas en Pixton: presentarse, mostrar el animal y escribir su sonido (onomatopeya). </span><br /></td>
+<td style="width: 14.2972%; height: 37.7969px;"><span style="font-size: 10pt;">3.2. Utilizar herramientas digitales para crear contenidos escritos sencillos. </span><br /></td>
+<td style="width: 23.8561%; height: 37.7969px;"><span style="font-size: 10pt;">Parejas (Tutoría entre iguales)</span><br /></td>
+<td style="width: 18.0287%; height: 37.7969px;"><span style="font-size: 10pt;">60 minutos</span><br /></td>
+<td style="width: 21.4887%; height: 37.7969px;"><span style="font-size: 10pt;">Pixton EDU</span><br /></td>
+</tr>
+<tr style="height: 37.7969px;">
+<td style="width: 22.3065%; height: 37.7969px;"><span style="font-size: 10pt;">5. Resolución de Retos: Identificar problemas técnicos comunes (batería, volumen, cierre de app) usando el panel de pictogramas. </span><br /></td>
+<td style="width: 14.2972%; height: 37.7969px;"><span style="font-size: 10pt;">6.2. Resolver problemas técnicos sencillos siguiendo instrucciones visuales. </span><br /></td>
+<td style="width: 23.8561%; height: 37.7969px;"><span style="font-size: 10pt;">Pequeños grupos (Rincones) </span><br /></td>
+<td style="width: 18.0287%; height: 37.7969px;"><span style="font-size: 10pt;">20 MINUTOS</span><br /></td>
+<td style="width: 21.4887%; height: 37.7969px;"><span style="font-size: 10pt;">Panel con pictogramas</span><br /></td>
+</tr>
+<tr style="height: 37.7969px;">
+<td style="width: 22.3065%; height: 37.7969px;"><span style="font-size: 10pt;">6. Exposición del Diccionario: Mostrar el cómic final a la clase y leer en voz alta los diálogos creados. </span><br /></td>
+<td style="width: 14.2972%; height: 37.7969px;"><span style="font-size: 10pt;">2.1. Expresar oralmente textos breves y sencillos de creación propia. </span><br /></td>
+<td style="width: 23.8561%; height: 37.7969px;"><span style="font-size: 10pt;">Gran Grupo</span><br /></td>
+<td style="width: 18.0287%; height: 37.7969px;"><span style="font-size: 10pt;">50 minutos</span><br /></td>
+<td style="width: 21.4887%; height: 37.7969px;"><span style="font-size: 10pt;">PDI</span></td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778262251078-7nhg7yfhx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100.058%; height: 366.328px; background-color: #9BFB76; border-color: #2dc26b; border-style: solid;\">\n<tbody>\n<tr style=\"height: 37.7969px;\">\n<td style=\"width: 22.3065%; height: 37.7969px;\">TAREA</td>\n<td style=\"width: 14.2972%; height: 37.7969px;\">CRITERIO</td>\n<td style=\"width: 23.8561%; height: 37.7969px;\">AGRUPAMIENTO</td>\n<td style=\"width: 18.0287%; height: 37.7969px;\">TIEMPO</td>\n<td style=\"width: 21.4887%; height: 37.7969px;\">HERRAMIENTA</td>\n</tr>\n<tr style=\"height: 139.547px;\">\n<td style=\"width: 22.3065%; height: 139.547px;\"><span style=\"font-size: 10pt;\">1. Exploradores de Sonidos: Identificar fonemas y onomatopeyas de animales de la granja mediante audios y tarjetas físicas. </span></td>\n<td style=\"width: 14.2972%; height: 139.547px;\"><span style=\"font-size: 10pt;\">1.1. Reconocer y distinguir sonidos de la lengua, onomatopeyas y rimas. </span><br /></td>\n<td style=\"width: 23.8561%; height: 139.547px;\"><span style=\"font-size: 10pt;\">Gran grupo e Individual </span></td>\n<td style=\"width: 18.0287%; height: 139.547px;\"><span style=\"font-size: 10pt;\">50 MINUTOS</span><br /></td>\n<td style=\"width: 21.4887%; height: 139.547px;\"><span style=\"font-size: 10pt;\">PDI y audios</span><br /></td>\n</tr>\n<tr style=\"height: 37.7969px;\">\n<td style=\"width: 22.3065%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">2. Alfabetización Digital: Sesión de modelado sobre el uso de la tablet, encendido, acceso a la App y protocolo de \"Pantalla Congelada\". </span><br /></td>\n<td style=\"width: 14.2972%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">6.1. Iniciarse en el uso de herramientas digitales para el aprendizaje de forma guiada. </span><br /></td>\n<td style=\"width: 23.8561%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">Gran grupo</span><br /></td>\n<td style=\"width: 18.0287%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">30 minutos</span><br /></td>\n<td style=\"width: 21.4887%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">Tablets</span><br /></td>\n</tr>\n<tr style=\"height: 37.7969px;\">\n<td style=\"width: 22.3065%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">3. Bocetos de Animales: Dibujar y escribir el nombre de un animal elegido en papel, segmentando las sílabas. </span><br /></td>\n<td style=\"width: 14.2972%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">3.1. Redactar palabras y frases sencillas con una intención comunicativa.</span><br /></td>\n<td style=\"width: 23.8561%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">Individual</span><br /></td>\n<td style=\"width: 18.0287%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">45 minutos</span><br /></td>\n<td style=\"width: 21.4887%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">Material fungible</span><br /></td>\n</tr>\n<tr style=\"height: 37.7969px;\">\n<td style=\"width: 22.3065%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">4. Creación en el Cómic: Crear una tira de 3 viñetas en Pixton: presentarse, mostrar el animal y escribir su sonido (onomatopeya). </span><br /></td>\n<td style=\"width: 14.2972%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">3.2. Utilizar herramientas digitales para crear contenidos escritos sencillos. </span><br /></td>\n<td style=\"width: 23.8561%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">Parejas (Tutoría entre iguales)</span><br /></td>\n<td style=\"width: 18.0287%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">60 minutos</span><br /></td>\n<td style=\"width: 21.4887%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">Pixton EDU</span><br /></td>\n</tr>\n<tr style=\"height: 37.7969px;\">\n<td style=\"width: 22.3065%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">5. Resolución de Retos: Identificar problemas técnicos comunes (batería, volumen, cierre de app) usando el panel de pictogramas. </span><br /></td>\n<td style=\"width: 14.2972%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">6.2. Resolver problemas técnicos sencillos siguiendo instrucciones visuales. </span><br /></td>\n<td style=\"width: 23.8561%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">Pequeños grupos (Rincones) </span><br /></td>\n<td style=\"width: 18.0287%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">20 MINUTOS</span><br /></td>\n<td style=\"width: 21.4887%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">Panel con pictogramas</span><br /></td>\n</tr>\n<tr style=\"height: 37.7969px;\">\n<td style=\"width: 22.3065%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">6. Exposición del Diccionario: Mostrar el cómic final a la clase y leer en voz alta los diálogos creados. </span><br /></td>\n<td style=\"width: 14.2972%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">2.1. Expresar oralmente textos breves y sencillos de creación propia. </span><br /></td>\n<td style=\"width: 23.8561%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">Gran Grupo</span><br /></td>\n<td style=\"width: 18.0287%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">50 minutos</span><br /></td>\n<td style=\"width: 21.4887%; height: 37.7969px;\"><span style=\"font-size: 10pt;\">PDI</span></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp18zyth-be328pmj8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp18zyth-be328pmj8</odePageId>
+      <odeBlockId>block-1778439270116-wda319a7y</odeBlockId>
+      <blockName>Instrumentos de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp18zyth-be328pmj8</odePageId>
+          <odeBlockId>block-1778439270116-wda319a7y</odeBlockId>
+          <odeIdeviceId>idevice-1778439270114-x54bux5op</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p></p>
+<p>INSTRUMENTOS DE EVALUACIÓN DIGITAL: "Aventuras en la Granja"<br />Introducción<br />Para la evaluación de esta SdA, se han diseñado dos instrumentos que combinan la observación directa del docente con la participación del alumnado.</p>
+<p>Instrumento 1: Rúbrica Analítica Digital (Registro Docente)<br />¿Qué evaluará? Se utilizará durante las sesiones 4 y 5 (creación en Pixton y resolución de problemas técnicos). Evaluará tres dimensiones:</p>
+<p>Conciencia Fonológica: Capacidad para escribir el nombre y sonido del animal.<br />Competencia Digital: Autonomía en el uso de la herramienta Pixton.<br />Resolución de Problemas: Uso de los pictogramas de apoyo ante fallos técnicos.<br />Se utilizará una rúbrica en iDoceo o Google Sheets. La ventaja de este medio digital es que permite automatizar la media ponderada de los indicadores.</p>
+<p>Variables: Si observamos que la variable "Competencia Digital" es baja en la mayoría del grupo, los datos nos indicarán que debemos dedicar más tiempo al modelado y menos a la producción textual.<br />Utilidad: Más allá de la nota, estos datos sirven para detectar qué alumnos necesitan refuerzo en la pinza digital o en la discriminación fonética.<br /></p>
+<table border="1" style="width: 100.058%; background-color: #C2E0F4; border-color: #7EECE9; border-style: solid;">
+<tbody>
+<tr>
+<td style="width: 24.9501%;"><span style="font-size: 10pt;">INDICADOR</span><br /></td>
+<td style="width: 24.9501%;"><span style="font-size: 10pt;">LOGRADO (1)</span><br /></td>
+<td style="width: 24.9501%;"><span style="font-size: 10pt;">EN PROCESO (2)</span><br /></td>
+<td style="width: 24.9501%;"><span style="font-size: 10pt;">NO LOGRADO (3)</span><br /></td>
+</tr>
+<tr>
+<td style="width: 24.9501%;"><span style="font-size: 10pt;">ESCRITURA</span><br /></td>
+<td style="width: 24.9501%;"><span style="font-size: 10pt;">Escribe onomatopeyas y nombres sin error.</span><br /></td>
+<td style="width: 24.9501%;"><span style="font-size: 10pt;">Escribe pero omite algún fonema.</span><br /></td>
+<td style="width: 24.9501%;"><span style="font-size: 10pt;">No asocia grafema-fonema.</span><br /></td>
+</tr>
+<tr>
+<td style="width: 24.9501%;"><span style="font-size: 10pt;">USO DE PIXTON</span><br /></td>
+<td style="width: 24.9501%;"><span style="font-size: 10pt;">Crea viñetas y cambia fondos solo.</span><br /></td>
+<td style="width: 24.9501%;"><span style="font-size: 10pt;">Necesita ayuda para encontrar menús.</span><br /></td>
+<td style="width: 24.9501%;"><span style="font-size: 10pt;">No maneja la tablet.</span><br /></td>
+</tr>
+<tr>
+<td style="width: 24.9501%;"><span style="font-size: 10pt;">AUTONOMÍA TÉCNICA</span><br /></td>
+<td style="width: 24.9501%;"><span style="font-size: 10pt;">Usa los pictogramas ante errores.</span><br /></td>
+<td style="width: 24.9501%;"><span style="font-size: 10pt;">Pregunta antes de mirar el panel.</span><br /></td>
+<td style="width: 24.9501%;"><span style="font-size: 10pt;">Se bloquea ante el error.</span></td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p>Instrumento 2: Diana de Evaluación Visual (Autoevaluación)<br />¿Qué evaluará? Se aplicará en la Sesión 6. Es un instrumento donde el niño/a reflexiona sobre su propio proceso de aprendizaje.</p>
+<p>¿Cómo y cuándo se usará? Se proyectará una Diana Interactiva en la PDI (creada en Genially). Cada alumno, por turnos, arrastrará su icono hacia los bordes o el centro de la diana según cómo se haya sentido en cuatro áreas: ¿Me ha gustado el proyecto?, ¿He sabido usar la tablet?, ¿He escrito bien las palabras?, ¿He ayudado a mis compañeros?.</p>
+<p>Análisis de resultados:</p>
+<p> Al comparar la Diana de Autoevaluación con la Rúbrica Docente, puedo validar si el alumnado tiene una percepción real de su aprendizaje.<br />Si un alumno marca que "sabe usar la tablet perfectamente" pero mi rúbrica indica que "se bloquea", esto me da una señal crítica de que debemos trabajar la autocrítica y la gestión de la frustración.<br /></p>
+<p><a href="https://view.genially.com/69f3bc812eb3fba0b0d76adb" title="Diana de evaluación">DIANA DE EVALUACIÓN</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778439270114-x54bux5op","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p></p>\n<p>INSTRUMENTOS DE EVALUACIÓN DIGITAL: \"Aventuras en la Granja\"<br />Introducción<br />Para la evaluación de esta SdA, se han diseñado dos instrumentos que combinan la observación directa del docente con la participación del alumnado.</p>\n<p>Instrumento 1: Rúbrica Analítica Digital (Registro Docente)<br />¿Qué evaluará? Se utilizará durante las sesiones 4 y 5 (creación en Pixton y resolución de problemas técnicos). Evaluará tres dimensiones:</p>\n<p>Conciencia Fonológica: Capacidad para escribir el nombre y sonido del animal.<br />Competencia Digital: Autonomía en el uso de la herramienta Pixton.<br />Resolución de Problemas: Uso de los pictogramas de apoyo ante fallos técnicos.<br />Se utilizará una rúbrica en iDoceo o Google Sheets. La ventaja de este medio digital es que permite automatizar la media ponderada de los indicadores.</p>\n<p>Variables: Si observamos que la variable \"Competencia Digital\" es baja en la mayoría del grupo, los datos nos indicarán que debemos dedicar más tiempo al modelado y menos a la producción textual.<br />Utilidad: Más allá de la nota, estos datos sirven para detectar qué alumnos necesitan refuerzo en la pinza digital o en la discriminación fonética.<br /></p>\n<table border=\"1\" style=\"width: 100.058%; background-color: #C2E0F4; border-color: #7EECE9; border-style: solid;\">\n<tbody>\n<tr>\n<td style=\"width: 24.9501%;\"><span style=\"font-size: 10pt;\">INDICADOR</span><br /></td>\n<td style=\"width: 24.9501%;\"><span style=\"font-size: 10pt;\">LOGRADO (1)</span><br /></td>\n<td style=\"width: 24.9501%;\"><span style=\"font-size: 10pt;\">EN PROCESO (2)</span><br /></td>\n<td style=\"width: 24.9501%;\"><span style=\"font-size: 10pt;\">NO LOGRADO (3)</span><br /></td>\n</tr>\n<tr>\n<td style=\"width: 24.9501%;\"><span style=\"font-size: 10pt;\">ESCRITURA</span><br /></td>\n<td style=\"width: 24.9501%;\"><span style=\"font-size: 10pt;\">Escribe onomatopeyas y nombres sin error.</span><br /></td>\n<td style=\"width: 24.9501%;\"><span style=\"font-size: 10pt;\">Escribe pero omite algún fonema.</span><br /></td>\n<td style=\"width: 24.9501%;\"><span style=\"font-size: 10pt;\">No asocia grafema-fonema.</span><br /></td>\n</tr>\n<tr>\n<td style=\"width: 24.9501%;\"><span style=\"font-size: 10pt;\">USO DE PIXTON</span><br /></td>\n<td style=\"width: 24.9501%;\"><span style=\"font-size: 10pt;\">Crea viñetas y cambia fondos solo.</span><br /></td>\n<td style=\"width: 24.9501%;\"><span style=\"font-size: 10pt;\">Necesita ayuda para encontrar menús.</span><br /></td>\n<td style=\"width: 24.9501%;\"><span style=\"font-size: 10pt;\">No maneja la tablet.</span><br /></td>\n</tr>\n<tr>\n<td style=\"width: 24.9501%;\"><span style=\"font-size: 10pt;\">AUTONOMÍA TÉCNICA</span><br /></td>\n<td style=\"width: 24.9501%;\"><span style=\"font-size: 10pt;\">Usa los pictogramas ante errores.</span><br /></td>\n<td style=\"width: 24.9501%;\"><span style=\"font-size: 10pt;\">Pregunta antes de mirar el panel.</span><br /></td>\n<td style=\"width: 24.9501%;\"><span style=\"font-size: 10pt;\">Se bloquea ante el error.</span></td>\n</tr>\n</tbody>\n</table>\n<p></p>\n<p></p>\n<p>Instrumento 2: Diana de Evaluación Visual (Autoevaluación)<br />¿Qué evaluará? Se aplicará en la Sesión 6. Es un instrumento donde el niño/a reflexiona sobre su propio proceso de aprendizaje.</p>\n<p>¿Cómo y cuándo se usará? Se proyectará una Diana Interactiva en la PDI (creada en Genially). Cada alumno, por turnos, arrastrará su icono hacia los bordes o el centro de la diana según cómo se haya sentido en cuatro áreas: ¿Me ha gustado el proyecto?, ¿He sabido usar la tablet?, ¿He escrito bien las palabras?, ¿He ayudado a mis compañeros?.</p>\n<p>Análisis de resultados:</p>\n<p> Al comparar la Diana de Autoevaluación con la Rúbrica Docente, puedo validar si el alumnado tiene una percepción real de su aprendizaje.<br />Si un alumno marca que \"sabe usar la tablet perfectamente\" pero mi rúbrica indica que \"se bloquea\", esto me da una señal crítica de que debemos trabajar la autocrítica y la gestión de la frustración.<br /></p>\n<p><a href=\"https://view.genially.com/69f3bc812eb3fba0b0d76adb\" title=\"Diana de evaluación\">DIANA DE EVALUACIÓN</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp18zytk-z62ydj0v7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp18zytk-z62ydj0v7</odePageId>
+      <odeBlockId>block-1778357441843-15700fr3i</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp18zytk-z62ydj0v7</odePageId>
+          <odeBlockId>block-1778357441843-15700fr3i</odeBlockId>
+          <odeIdeviceId>idevice-1778357441836-z0o225jw7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Información del Recurso</strong><br /><strong>Título del proyecto:</strong> <span style="color: #e03e2d;">Letras Conectadas: Los animales y sus sonidos.</span><br /><strong>Autoría:</strong> Araceli Mª Toro Pozo<br /><strong>Nivel:</strong> 1.º de Educación Primaria.</p>
+<p><strong>Atribución de imágenes y recursos</strong></p>
+<p><strong>Imágenes:</strong> Todas las imágenes de animales han sido obtenidas de <em>Pixabay</em> (Autores: Bru-nO y otros). Licencia de Pixabay.<br /><strong>Herramientas externas:</strong> <em>Symbaloo</em> (Tablero de juegos) y <em>Padlet</em> (Muro colaborativo).<br /><strong>Metodología</strong>: Inspirado en la pedagogía Montessori (letras de lija) y los principios del Diseño Universal para el Aprendizaje (DUA).</p>
+<p><strong>Licencia del material</strong></p>
+<p>Este recurso ha sido creado con <em>eXeLearning </em>y se publica bajo la licencia: Creative Commons Atribución-CompartirIgual 4.0 (CC BY-SA). </p>
+<p><img src="{{context_path}}/content/resources/OIP.jpg" title="Licencia" width="125" height="44" alt="Licencia" /></p>
+<p><a href="https://drive.google.com/file/d/1tS70K4XnqSXR39SqYbSyMia1DVG3q1YK/view?usp=sharing" title="">Descarga el archivo fuente aquí</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778357441836-z0o225jw7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Información del Recurso</strong><br /><strong>Título del proyecto:</strong> <span style=\"color: #e03e2d;\">Letras Conectadas: Los animales y sus sonidos.</span><br /><strong>Autoría:</strong> Araceli Mª Toro Pozo<br /><strong>Nivel:</strong> 1.º de Educación Primaria.</p>\n<p><strong>Atribución de imágenes y recursos</strong></p>\n<p><strong>Imágenes:</strong> Todas las imágenes de animales han sido obtenidas de <em>Pixabay</em> (Autores: Bru-nO y otros). Licencia de Pixabay.<br /><strong>Herramientas externas:</strong> <em>Symbaloo</em> (Tablero de juegos) y <em>Padlet</em> (Muro colaborativo).<br /><strong>Metodología</strong>: Inspirado en la pedagogía Montessori (letras de lija) y los principios del Diseño Universal para el Aprendizaje (DUA).</p>\n<p><strong>Licencia del material</strong></p>\n<p>Este recurso ha sido creado con <em>eXeLearning </em>y se publica bajo la licencia: Creative Commons Atribución-CompartirIgual 4.0 (CC BY-SA). </p>\n<p><img src=\"{{context_path}}/content/resources/OIP.jpg\" title=\"Licencia\" width=\"125\" height=\"44\" alt=\"Licencia\" /></p>\n<p><a href=\"https://drive.google.com/file/d/1tS70K4XnqSXR39SqYbSyMia1DVG3q1YK/view?usp=sharing\" title=\"\">Descarga el archivo fuente aquí</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp18zytk-z62ydj0v7</odePageId>
+      <odeBlockId>block-1778510182656-dnulauzm5</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp18zytk-z62ydj0v7</odePageId>
+          <odeBlockId>block-1778510182656-dnulauzm5</odeBlockId>
+          <odeIdeviceId>idevice-1778510182650-ym05rsrza</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Documento sin título LETRAS CONECTADAS</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Recurso Educativo Abierto diseñado para el primer ciclo de Educación Primaria. A través de un diccionario pictográfico y la creación de cómics con Pixton, el alumnado trabaja la lectoescritura, las onomatopeyas y la expresión escrita. El proyecto integra el uso de las TIC como andamiaje para reducir la carga cognitiva y fomentar la motivación mediante la narrativa visual.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Araceli Mª Toro Pozo</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
